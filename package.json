@@ -1,0 +1,33 @@
+{
+  "name": "github-issues-importer",
+  "version": "0.0.1",
+  "description": "Script to import issues to Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yetithefoot/github-issues-importer.git"
+  },
+  "keywords": [
+    "github",
+    "issues",
+    "api",
+    "import",
+    "script",
+    "task"
+  ],
+  "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yetithefoot/github-issues-importer/issues"
+  },
+  "homepage": "https://github.com/yetithefoot/github-issues-importer",
+  "dependencies": {
+    "github": "^0.2.3",
+    "sugar": "^1.4.1",
+    "async": "^0.9.0"
+  }
+}

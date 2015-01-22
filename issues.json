@@ -1,0 +1,45 @@
+{
+	"user": "yetithefoot",
+	"repo": "<REPO NAME HERE>",
+	"assignee": "yetithefoot",
+	"labels": ["bug", "medium"],
+
+	"issues":[
+
+	{ "title": "Custom sort", "body": "Custom sort"},
+	{ "title": "Justified gallery rewrite", "body": "Justified gallery rewrite"},
+	{ "title": "AWS lambda thumbnailing", "body": "AWS lambda thumbnailing"},
+	{ "title": "Sync image creation to monq queue", "body": "Sync image creation to monq queue"},
+	{ "title": "Collections icons (shared, public, smart)", "body": "Collections icons (shared, public, smart)"},
+	{ "title": "Themes fixes according to @ash issues", "body": "Themes fixes according to @ash issues"},
+	{ "title": "'Load more' indicator ", "body": "'Load more' indicator "},
+	{ "title": "New public themes", "body": "New public themes"},
+	{ "title": "Winston logging", "body": "Winston logging"},
+	{ "title": "Smart galleries ( uncategorized is first one )", "body": "Smart galleries ( uncategorized is first one )"},
+	{ "title": "Buttons 'Wipe photos' and 'Wipe tags' in admin", "body": "Buttons 'Wipe photos' and 'Wipe tags' in admin"},
+	{ "title": "Counter to collections", "body": "Counter to collections"},
+	{ "title": "raw.pics.io share to FB for one day", "body": "raw.pics.io share to FB for one day"},
+	{ "title": "Operations with collections on mobile, not very useful now", "body": "Operations with collections on mobile, not very useful now"},
+	{ "title": "Design and implement search on mobile", "body": "Design and implement search on mobile"},
+	{ "title": "Multiple download in pics.io app", "body": "Multiple download in pics.io app"},
+	{ "title": "Download all for public galleries, user can override it with paster link", "body": "Download all for public galleries, user can override it with paster link"},
+	{ "title": "Rename 'Home' to collection name", "body": "Rename 'Home' to collection name"},
+	{ "title": "Add Tagline input, same as Replace photographer name with", "body": "Add Tagline input, same as Replace photographer name with"},
+	{ "title": "Show only flagged photos in 'Home' in public galleries", "body": "Show only flagged photos in 'Home' in public galleries"},
+	{ "title": "Add field 'Cover photo name', if empty use first photo", "body": "Add field 'Cover photo name', if empty use first photo"},
+	{ "title": "Free GD space widget", "body": "Free GD space widget"},
+	{ "title": "Thumbnails preview not available ", "body": "Thumbnails preview not available "},
+	{ "title": "Flag 'Never show it to me' on shared collection", "body": "Flag 'Never show it to me' on shared collection"},
+	{ "labels":["bug"], "title": "Not a buffer app crash", "body": "Bug: Not a buffer app crash"},
+	{ "labels":["bug"], "title": "Themes template is undefined sometimes", "body": "Bug: Themes template is undefined sometimes"},
+	{ "title": "Remove 'Tasks(old)' tab from admin", "body": "Remove 'Tasks(old)' tab from admin"},
+	{ "title": "Serve thumbnails from S3 instead of CF for first hour of collection created (option in admin)", "body": "Serve thumbnails from S3 instead of CF for first hour of collection created (option in admin)"},
+	{ "labels":["bug"], "title": "Click first photo, then shift+click not selects range", "body": "Bug: click first photo, then shift+click not selects range"},
+	{ "labels":["bug"], "title": "Internal sharing for few users shares only for first one", "body": "Bug: internal sharing for few users shares only for first one"},
+	{ "title": "Add italian strings to raw.pics.io", "body": "Add italian strings to raw.pics.io"},
+	{ "title": "Remove alertify+toastr assets from hello page", "body": "Remove alertify+toastr assets from hello page"},
+	{ "title": "Admin pages are too slow", "body": "Admin pages are too slow"},
+	{ "title": "Landing pages on mobile looks not very good. We can place stub page there", "body": "Landing pages on mobile looks not very good. We can place stub page there"}
+
+	]
+}
